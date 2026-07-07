@@ -1,5 +1,7 @@
 # 🛌 Sleep Disorder Prediction App
 
+The application is deployed at: https://sleep-disorder-prediction-ml.streamlit.app/
+
 ## 📋 Features
 
 - **Interactive Prediction Interface:** Input your health information to get instant sleep disorder predictions
